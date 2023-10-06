@@ -1,0 +1,21 @@
+{
+    "name": "001717/rotassimples",
+    "autoload": {
+        "files":[
+            "app/helpers/context.php"
+
+        ],
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rogerio Gomes",
+            "email": "rogsgomes@gmail.com"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.5"
+    }
+}
